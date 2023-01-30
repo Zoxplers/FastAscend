@@ -1,0 +1,2 @@
+# FastAscend
+## A minecraft plugin.
