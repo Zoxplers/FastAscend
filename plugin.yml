@@ -1,0 +1,7 @@
+name: FastAscend
+main: com.zoxplers.fastascend.FastAscend
+version: 1.0.3
+api-version: 1.19
+authors: [Zoxplers]
+website: zoxplers.com
+prefix: FastAscend
